@@ -1,4 +1,4 @@
-# Food-Safety-Datathon
+# Food-Safety-Analysis
 
 
 With the world becoming more data-driven with endless amounts of data being collected from several sources, the Food industry has taken advantage of this to make significant decisions. Food safety has been a critical issue and a widespread interest has been growing on how to improve it to reduce its impact. The increasing use of IOT devices combined with big data analytics has played a major role in improving the food safety today. Furthermore, there are various benefits of leveraging the data to improve food safety and achieve good quality which are further illustrated in the report.
@@ -16,13 +16,13 @@ There are four central dashboards in this project; the first one summarizes the 
 The first dashboard presenting innovative insights is the Daily Analysis Dashboard that can be
 utilized to check the performance of the food system and analyze the metrics performance daily. Thus, solving any problem as it arrives , optimizing speed and alert performance throughout the business. There are filters on the dashboard that can be used to change the date to see daily reports of the filtered days.
 # Data Analysis Dasboard
- <img width="346" alt="image" src="https://user-images.githubusercontent.com/42086991/174870317-1be39d42-b9f6-4ecf-ae52-50a577165801.png">
+ <img width="1024" alt="image" src="https://user-images.githubusercontent.com/42086991/174870317-1be39d42-b9f6-4ecf-ae52-50a577165801.png">
 
 The first sheet on the dashboard is the Count of Alerts recorded in the day this information is significant as it shows the business if they had numerous alerts or if they performed well. Subsequently, they can drill down and trace the point that caused the alerts. These alerts are by several devices and they are broken down by the sheet “Alerts by Devices Sheet” that illustrates how many alerts are caused by each device. Consequently, aiding the manager to get a quick summarized view
 of which device had the most number of alerts and get the maintenance done faster to reduce errors later . The next sheet is the First Pass Yield% this sheet illustrates the percent of safe readings (readings that had Alert level Id 0) from all the devices in the Day. This yield% can depict how well the business in achieving safe readings and good alert-free food. Additionally, the third sheet shows the count of devices active on the day that is filtered. Furthermore, the alerts can also be seen as how many happened in the day and what percent happened in the night with the help of a pie chart. This would increase traceability for the business to quickly find the error at the specific time by drilling down into real time data and fix problems as they occur. Lastly, the sheet “Missed Readings” is crucial for daily performance to spot which devices have missed several readings and get the device inspected and fixed before the food spoils. All this information on one Dashboard gives the control manager a quick view to inspect on the daily metrics that are key and crucial to the business and any anomalies or outliers can quickly be identified. Thus, improving daily performance, traceability quality of food safety in the long run.
 
 # Device Performance
-<img width="407" alt="image" src="https://user-images.githubusercontent.com/42086991/174870338-dbba38ec-c8fb-4fd0-b4da-b02d8236e59d.png">
+<img width="1024" alt="image" src="https://user-images.githubusercontent.com/42086991/174870338-dbba38ec-c8fb-4fd0-b4da-b02d8236e59d.png">
 
 The next dashboard that brings valuable key insights is the Device Performance Dashboard that focuses on providing a monthly analysis of devices to show the performance by month.
  
@@ -33,7 +33,7 @@ However, the quality percentage cannot be the only factor that decides if a devi
 This alliance (the bar and line charts)would assist the system evaluator in understanding the functionality of the device from a wider perspective.
 
 # Temperature Control Dashboard
-<img width="363" alt="image" src="https://user-images.githubusercontent.com/42086991/174870378-0dee8c79-d02d-4111-9200-65eb82bc3524.png">
+<img width="1024" alt="image" src="https://user-images.githubusercontent.com/42086991/174870378-0dee8c79-d02d-4111-9200-65eb82bc3524.png">
 
 Another dashboard that we thought is key for the business to gain valuable insights is the Temperature quality control chart. This dashboard represents a real-time temperature analysis of the individual device where the chart has upper and lower control limits that are used as the minimum and maximum values assigned to the device. If the reading goes beyond the control limits specified, an alert would be sent to the manager.
 This visualization is crucial to the food safety manager as it enables them to view the real-time temperature values and also go back to previous alert events to check how much time it took to respond and fix the issue.
