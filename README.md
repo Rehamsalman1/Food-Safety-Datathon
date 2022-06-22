@@ -5,7 +5,7 @@ With the world becoming more data-driven with endless amounts of data being coll
 
 # Problem statement
 A crucial problem we identified was that the performance of the device is often overlooked by businesses when examining and inspecting the food safety. The devices often fail to record readings and miss out on valuable data that affects the food quality rate. This inaccurate data with missed readings inevitably results in the control department being unaware of any significant problems that may have affected the food in that time period. Additionally, with current analytics there has been little insight on the quality of devices which could be used as a key performance indicator to show if the device is reaching the expected quality rate over time. Thereafter, we decided to tackle these issues in our visualizations through dashboards which are illustrated below.
-# Aims and Objectives
+# Overview
 The primary aim of our work is to present new innovative solutions and approaches that improve and enhance the quality of food produced today. The solutions presented in the paper aim to help food safety managers achieve clear visibility into critical areas and help reduce the recall rate of the food by inspecting the device performance. Additionally, the paper highlights solutions to make the business more government compliant and achieve quality targets. Consequently, improving the value for the business. Within the framework of these aims we designed several dashboards that aim to
 bring valuable insights and help businesses make strategic decisions that will help to increase food sustainability.
 Original and Processed data
