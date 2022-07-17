@@ -1,4 +1,4 @@
-# Food-Safety-Analysis 
+# Food-Safety-Analysis - <a href="https://public.tableau.com/views/FoodSafetyAnalysis/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link">Link to the Dashboard</a>
 
 ## Transform data to create innovative software solutions for a more sustainable food industry
 
