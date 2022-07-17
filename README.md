@@ -61,6 +61,8 @@ This visualization is crucial to the food safety manager as it enables them to v
 Additionally, it helps in monitoring the food and making quick decisions to save the food whenever problems arise in the day. Consequently, the food recall rate would decrease, and the food is safer. Lastly, they can filter and choose the time that they want to inspect the temperature of the device.
 
 ## Available Devices Dashboard
+![Screenshot (1)](https://user-images.githubusercontent.com/42086991/179395772-a636ff01-7e40-4751-8902-17da01461775.png)
+
 The dashboard above represents all the food management devices available in the company and some details about the devices, including the name of each device, the group which they belong to, and where each device is located.
 
 ### Dashboard Explanation
