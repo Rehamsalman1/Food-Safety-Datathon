@@ -5,7 +5,7 @@
 With the world becoming more data-driven with endless amounts of data being collected from several sources, the Food industry has taken advantage of this to make significant decisions. Food safety has been a critical issue and a widespread interest has been growing on how to improve it to reduce its impact. The increasing use of IOT devices combined with big data analytics has played a major role in improving the food safety today. Furthermore, there are various benefits of leveraging the data to improve food safety and achieve good quality which are further illustrated in the report.
 
 ## Problem statement
-Food safety is often overlooked in a company and we were presented with data from RUBICS Smart Solutions to help business owners be in more control of the food sustainability in the company. 
+Food safety is often overlooked in a company and we were presented with data from RUBICS Smart Solutions to create food insights which would help business owners be in more control of the food sustainability in the company. 
 
 ## Aim
 The primary aim of our work is to present new innovative solutions and approaches that improve and enhance the quality of food produced today with the help of data provided collected from IOT devices used in the company.
