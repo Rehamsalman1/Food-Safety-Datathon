@@ -50,7 +50,8 @@ However, the quality percentage cannot be the only factor that decides if a devi
 This alliance (the bar and line charts)would assist the system evaluator in understanding the functionality of the device from a wider perspective.
 
 ## Temperature Control Dashboard
-<img width="1024" alt="image" src="https://user-images.githubusercontent.com/42086991/174870378-0dee8c79-d02d-4111-9200-65eb82bc3524.png">
+![Screenshot (2)](https://user-images.githubusercontent.com/42086991/179395894-4b27b3b1-1852-412b-bfb1-1032ec8a9c56.png)
+
 
 Another dashboard that we thought is key for the business to gain valuable insights is the Temperature quality control chart. 
 
