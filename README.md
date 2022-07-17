@@ -1,18 +1,29 @@
-# Food-Safety-Analysis
+# Food-Safety-Analysis 
+
+## Transform data to create innovative software solutions for a more sustainable food industry
 
 
 With the world becoming more data-driven with endless amounts of data being collected from several sources, the Food industry has taken advantage of this to make significant decisions. Food safety has been a critical issue and a widespread interest has been growing on how to improve it to reduce its impact. The increasing use of IOT devices combined with big data analytics has played a major role in improving the food safety today. Furthermore, there are various benefits of leveraging the data to improve food safety and achieve good quality which are further illustrated in the report.
 
 # Problem statement
-A crucial problem we identified was that the performance of the device is often overlooked by businesses when examining and inspecting the food safety. The devices often fail to record readings and miss out on valuable data that affects the food quality rate. This inaccurate data with missed readings inevitably results in the control department being unaware of any significant problems that may have affected the food in that time period. Additionally, with current analytics there has been little insight on the quality of devices which could be used as a key performance indicator to show if the device is reaching the expected quality rate over time. Thereafter, we decided to tackle these issues in our visualizations through dashboards which are illustrated below.
-# Overview
-The primary aim of our work is to present new innovative solutions and approaches that improve and enhance the quality of food produced today. The solutions presented in the paper aim to help food safety managers achieve clear visibility into critical areas and help reduce the recall rate of the food by inspecting the device performance. Additionally, the paper highlights solutions to make the business more government compliant and achieve quality targets. Consequently, improving the value for the business. Within the framework of these aims we designed several dashboards that aim to
-bring valuable insights and help businesses make strategic decisions that will help to increase food sustainability.
-Original and Processed data
-To leverage the data and achieve the proposed aims listed above the primary step was to clean the data and process it into meaningful insights. For our work we computed all our calculations and dashboards on Tableau. Originally excel limited the dataset to reach a certain number of rows for the Reading File thus giving a smaller dataset to work with on Tableau. However, to get a more real time analysis with updated data for comparisons we decided to manipulate the data and get all the data into excel through WordPad and later put it together by performing a union join to all the years Datasets into one in Tableau. Thereafter, we moved to the next step of visualizing and creating dashboards to obtain meaningful insights.
-Analysis
+Food safety is often overlooked in a company and we needed to help business owners be in more control of the food safety in the company with the help of analysing data collected from the IOT devices such as food temperature, fridge status, alert levels, location, and several other attributes and help them make smart decisions.
+
+The solutions presented in the paper aim to help food safety managers achieve clear visibility into critical areas and help reduce the recall rate of the food by inspecting the device performance. Additionally, make the business more government compliant and achieve quality targets. Consequently, improving the value for the business. Within the framework several dashboards were designed to bring valuable insights and help businesses make strategic decisions that will help to increase food sustainability.
+The devices often fail to record readings and miss out on valuable data that affects the food quality rate. This inaccurate data with missed readings inevitably results in the control department being unaware of any significant problems that may have affected the food in that time period. Additionally, with current analytics there has been little insight on the quality of devices which could be used as a key performance indicator to show if the device is reaching the expected quality rate over time. Thereafter, we decided to tackle these issues in our visualizations through dashboards which are illustrated below.
+
+# Aim
+The primary aim of our work is to present new innovative solutions and approaches that improve and enhance the quality of food produced today.
+
+# Original and Processed Data
+To leverage the data and achieve the proposed aims listed above the primary step was to clean the data and process it into meaningful insights. For our work we computed all our calculations and dashboards on Tableau. Originally excel limited the dataset to reach a certain number of rows for the Reading File thus giving a smaller dataset to work with on Tableau. However, to get a more real time analysis with updated data for comparisons we decided to manipulate the data and get all the data into excel through WordPad and later put it together by performing a union join to all the years Datasets into one source in Tableau. Thereafter, we moved to the next step of visualizing and creating dashboards to obtain meaningful insights.
+
+# Analysis
 After examining the data sets we made various visualizations and connected sheets to create dashboards acquiring valuable insights from the data which would further increase the Food Safety Quality and sustainability. Each of the visualizations is explained in detail below.
-There are four central dashboards in this project; the first one summarizes the daily performance of the smart Food Safety Management system, while the device performance dashboard identifies the quality of each active device on a monthly basis. The other dashboard shows the company’s devices along with the essential description of each device. Finally, the last dashboard represents the temperature control chart of the selected device on a selected day.
+
+The devices often fail to record readings and miss out on valuable data that affects the food quality rate. This inaccurate data with missed readings inevitably results in the control department being unaware of any significant problems that may have affected the food in that time period. Additionally, with current analytics there has been little insight on the quality of devices which could be used as a key performance indicator to show if the device is reaching the expected quality rate over time. Thereafter, we decided to tackle these issues in our visualizations through dashboards which are illustrated below.
+
+There are four key dashboards in this project; the first one summarizes the daily performance of the smart Food Safety Management system, while the device performance dashboard identifies the quality of each active device on a monthly basis. The "Available Devices Dashboard" shows the company’s devices along with the essential description of each device and where it is located in the factory. Finally, the last dashboard represents the temperature control chart of the selected device on a selected day.
+
 The first dashboard presenting innovative insights is the Daily Analysis Dashboard that can be
 utilized to check the performance of the food system and analyze the metrics performance daily. Thus, solving any problem as it arrives , optimizing speed and alert performance throughout the business. There are filters on the dashboard that can be used to change the date to see daily reports of the filtered days.
 # Data Analysis Dasboard
